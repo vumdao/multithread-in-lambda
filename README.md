@@ -16,7 +16,7 @@
 #
 
 ### 🚀 **[Create lambda function using chalice](#-Create-lambda-function-using-chalice)**
-- Source code
+- `app.py`
 ```
 from chalice import Chalice
 import threading
